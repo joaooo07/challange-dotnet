@@ -78,6 +78,5 @@ Use o **Swagger UI** para verificar:
 
 - Mapeamos tabelas/colunas em **maiúsculas** via Fluent API em `OnModelCreating`.  
 - Para testes **sem Oracle**, comente `UseOracle(...)` e descomente  
-  `UseInMemoryDatabase("TestDb")` em `Program.cs`.  
-- Mantenha um **.gitignore** para `bin/`, `obj/`, `*.vs/`, etc.  
+  `UseInMemoryDatabase("TestDb")` em `Program.cs`.   
 
