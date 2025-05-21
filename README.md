@@ -59,7 +59,7 @@ API RESTful em ASP.NET Core para gerenciamento de **Clientes** e **Motos**, com 
 
 ---
 
-## ✅ Testes
+## Testes
 
 Use o **Swagger UI** para verificar:
 
@@ -74,7 +74,7 @@ Use o **Swagger UI** para verificar:
 
 ---
 
-## ℹObservações
+## Observações
 
 - Mapeamos tabelas/colunas em **maiúsculas** via Fluent API em `OnModelCreating`.  
 - Para testes **sem Oracle**, comente `UseOracle(...)` e descomente  
